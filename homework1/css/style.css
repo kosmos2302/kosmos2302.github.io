@@ -1,0 +1,38 @@
+body
+{
+  background:#f4f2f5;
+}
+
+.wrapper{
+  width: 500px;
+  margin: 0 auto;
+
+  }
+  .about
+  {
+    font-size: 14px;
+    font-family: arial;
+    color: grey;
+  }
+  h3
+  {
+    font-size: 18px;
+    font-family: Myriad Pro;
+  }
+li{
+  font-size: 14px;
+  font-family: Myriad Pro;
+
+}
+[src="img/foto1.jpg"]
+{
+   width: 200px;
+   height: 200px;
+   border: 1px solid;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
+.contact{
+  list-style-type: none;
+}
