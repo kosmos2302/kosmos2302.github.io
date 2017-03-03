@@ -9,20 +9,25 @@
 }
 
 .wrapper{
-  width: 960px;
+  width: 1060px;
   height: 950px;
   margin: 0 auto;
-  padding: 50px 48px 10px 46px;
+  /*padding: 50px 48px 10px 46px;*/
   background-color: #fff;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
-
 }
+/*mainbox {
+  width: 960px;
+  height: 1050px;
+}*/
 img {
   margin-top: 50px;
+  margin-left: 46px;
 }
 .menu{
   margin-top: 40px;
   margin-bottom: 40px;
+  margin-left: 46px;
   width: 960px;
 	height: 40px;
 	background-color: #fff;
@@ -52,6 +57,7 @@ img {
 table {
   width: 240px;
   height: 240px;
+  margin-left: 48px;
   border: solid 1px #c8c8c8;
   position: absolute;
   border-collapse: collapse;
@@ -82,7 +88,7 @@ table a:hover {
 	height: 400px;
 	background-color: #fff;
 	border: solid 1px #c8c8c8;
-  margin-left: 282px;
+  margin-left: 334px;
   position: absolute;
 }
 .velo_box img {
@@ -97,13 +103,14 @@ table a:hover {
   width: 570px;
   margin-top: 649px;
   margin-bottom: 160px;
-  margin-left: 328px;
+  margin-left: 360px;
   margin-right: 77px;
   display: block;
 }
 .footer {
   margin-top: 850px;
   margin-bottom: 40px;
+  margin-left: 46px;
   width: 960px;
 	height: 40px;
 	background-color: #e1e1e1;
