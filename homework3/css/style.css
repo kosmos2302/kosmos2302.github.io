@@ -38,11 +38,13 @@ img {
   text-align: center;
   padding: 5px 10px;
   display: inline-block;
-}
+  border-left:  1px solid transparent;
+  border-right: 1px solid transparent;
+  }
 .menu li:hover {
     background: #333;
-    border-right: 1px solid white;
-    border-left: 1px solid white;
+    border-right: 1px solid #838383;
+    border-left: 1px solid #838383;
 
 }
 .menu a{
@@ -50,6 +52,8 @@ img {
   display: block;
   padding: 5px 15px;
   text-decoration: none;
+
+
 }
 table {
   width: 240px;
