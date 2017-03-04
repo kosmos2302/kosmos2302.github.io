@@ -31,7 +31,7 @@ img {
 .menu li {
   width: 100px;
   height: 30px;
-  font-family: OpenSans;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	color: #fff;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.5);
@@ -66,7 +66,7 @@ table tr {
 table a {
   margin-left: 20px;
   font-size: 13px;
-  font-family: OpenSans;
+  font-family: 'Open Sans', sans-serif;
   color: #7a7878;
   text-decoration: none;
   display: block;
@@ -114,7 +114,7 @@ table a:hover {
 .footer li {
   width: 100px;
   height: 30px;
-  font-family: OpenSans;
+  font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   color: black;
   text-align: center;
@@ -124,7 +124,7 @@ table a:hover {
   .footer a {
   height: 37px;
   font-size: 13px;
-  font-family: OpenSans;
+  font-family: 'Open Sans', sans-serif;
   color: black;
   text-decoration: none;
 }
