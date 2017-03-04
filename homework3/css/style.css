@@ -12,14 +12,9 @@
   width: 1060px;
   height: 950px;
   margin: 0 auto;
-  /*padding: 50px 48px 10px 46px;*/
   background-color: #fff;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
-/*mainbox {
-  width: 960px;
-  height: 1050px;
-}*/
 img {
   margin-top: 50px;
   margin-left: 46px;
@@ -28,7 +23,7 @@ img {
   margin-top: 40px;
   margin-bottom: 40px;
   margin-left: 46px;
-  width: 960px;
+  width: 966px;
 	height: 40px;
 	background-color: #fff;
 	background-image: linear-gradient(to top, #444343, #5e5e5e);
@@ -57,7 +52,7 @@ img {
 table {
   width: 240px;
   height: 240px;
-  margin-left: 48px;
+  margin-left: 46px;
   border: solid 1px #c8c8c8;
   position: absolute;
   border-collapse: collapse;
@@ -111,7 +106,7 @@ table a:hover {
   margin-top: 850px;
   margin-bottom: 40px;
   margin-left: 46px;
-  width: 960px;
+  width: 966px;
 	height: 40px;
 	background-color: #e1e1e1;
   position: absolute;
